@@ -1,0 +1,10 @@
+.leviathan/
+site/node_modules/
+site/.npm-cache/
+site/.npmrc
+site/dist/
+site/tmp/
+site/AGENTS.md
+site/design-qa.md
+site/public/assets/sky-has-no-limits.m4a
+*.pyc
